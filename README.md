@@ -39,7 +39,7 @@
 2. 下载并运行 AnkiCard.py 文件，就看到一个窗口弹出，可以直接输入英文和中文词汇。（也可使用bat文件）
 3. 点击 SAVE，保存当前页，并继续写下一页，文本框自动清空。
 4. 如果卡片内容都输入好了，可点击 GEN PPT，会在与py文件相同路径下，自动生成一个【Anki年月日时分.pptx】以及一个同名txt 文件，方便备份卡片文本。
-5. 点击 CLEAR，可清空所有卡片，重新开始写。
+5. 点击 CLEAR，可清空当前输入内容，重新开始写。
 
 <img width="80%" height="80%" alt="image" src="https://github.com/user-attachments/assets/ab79234f-cc5f-443c-848c-b7be5c27adb5" />
 
